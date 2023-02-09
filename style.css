@@ -1,0 +1,194 @@
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.column-1 {
+    width: 15%;
+    height: 100%;
+    background-color: #a66851;
+    margin-top: -1%;
+    margin-left: -1%;
+    float: left;
+}
+
+.column-2{
+    width: 60%;
+    height: 100%;
+    background-color: #f2d6bd ;
+    margin-top: 0%;
+    float: left;
+    margin-top: -1%;
+
+    
+
+    
+
+
+}
+
+.column-3{
+    width: 26.6%;
+    height: 100%;
+    margin-top: 0%;
+    float: left;
+    margin-top: -1%;
+    margin-right: -2%;
+    background-color: aqua;
+
+
+
+}
+
+.video {
+    position:relative;
+    align-items: center;
+    z-index: -1;
+    margin: -2%;
+}
+
+.logo {
+    padding-top: 20%;
+    padding-bottom: 5%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding-left: 20%;
+}
+
+.icono1 {
+    border-radius: 5px;
+    border: 2px solid white;
+    padding: 5%;
+    text-align: center;
+    border-radius: 50px;
+    color: white;
+
+}
+
+
+.sagrada {
+    width: 40px;
+    height: 40px;
+    
+}
+
+
+.guell {
+    width: 40px;
+    height: 40px;
+}
+
+.bat {
+    width: 40px;
+    height: 50px;
+}
+.pedr{
+    width: 45px;
+    height: 50px;
+
+}
+
+
+td {
+    padding: 5%;
+    padding-right: 5%;
+    color: white;
+}
+
+.bloque {
+    width: 53.5%;
+    height: 15%;
+    position: absolute;
+    margin-top: -6%;
+    right: 27.6%;
+
+}
+
+.barcelona {
+    width: 95%;
+    text-align: center;
+    position: absolute;
+}
+
+.menu {
+    position: fixed;
+    top: 2%;
+    left: 1.5%;
+}
+
+.bcn {
+    margin-left: 10%;
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 27%;
+
+}
+
+.bcn h1 {
+    font-size: 80px;
+    color: white;
+    font-weight: 600;
+
+}
+.bcn a {
+    text-decoration: none;
+    display: inline-block;
+    color:white;
+    font-size: 24px;
+    border: 2px solid white;
+    padding: 14px 70px;
+    border-radius: 50px;
+}
+
+.text1 {
+    position: relative;
+    font-size:large;
+    margin-right: 47%;
+    margin-left: 1.5%;
+}
+.img1 {
+    position: absolute;
+    top: 18%;
+    left: 115%;
+    
+}
+
+
+p {
+    text-align: justify;
+}
+
+.mapa p {
+    font-size:large;
+    margin-right: 1.5%;
+    position: relative;
+
+}
+
+.img4 {
+    position: relative;
+    float: left;
+    margin: 2%;
+}
+
+.playa {
+    margin-top: 5%;
+}
+
+.texto2 {
+    margin-top: 7%;
+    position: relative;
+    font-size:large;
+    margin-left: 1.5%;
+}
+
+.img5 {
+    position: relative;
+    float: right;
+    margin: 3%;
+    margin-top: -2%;
+
+}
+
