@@ -34,7 +34,7 @@
     float: left;
     margin-top: -1%;
     margin-right: -2%;
-    background-color: aqua;
+    background-color: #fffaf2;
 
 
 
@@ -73,6 +73,14 @@
     
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
 
 .guell {
     width: 40px;
@@ -86,9 +94,11 @@
 .pedr{
     width: 45px;
     height: 50px;
+    margin-left: -15%;
 
 }
 
+ 
 
 td {
     padding: 5%;
@@ -114,7 +124,7 @@ td {
 .menu {
     position: fixed;
     top: 2%;
-    left: 1.5%;
+    left: 1%;
 }
 
 .bcn {
@@ -192,3 +202,68 @@ p {
 
 }
 
+.texto3 {
+    margin-top: 7%;
+    position: relative;
+    font-size:large;
+    margin-left: 1.5%;
+}
+
+.parc {
+    position: relative;
+    float: right;
+    margin: 3%;
+    margin-top: 2%;
+
+}
+
+.texto4 {
+    margin-top: 7%;
+    position: relative;
+    font-size:large;
+    margin-left: 1.5%;
+}
+
+.pedrera {
+
+    position: relative;
+    float: right;
+    margin: 3%;
+    margin-top: -2%;
+
+}
+
+.texto5 {
+    margin-top: 7%;
+    position: relative;
+    font-size:large;
+    margin-left: 1.5%;
+
+
+}
+
+.casa {
+
+    position: relative;
+    float: right;
+    margin: 3%;
+    margin-top: -2%;
+
+
+
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.column-3 p {
+    margin: 2%;
+}
+.column-3 img {
+    margin: 2%;
+}
+.column-3 h3 {
+    margin: 2%;
+}
